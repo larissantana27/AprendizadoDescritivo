@@ -9,12 +9,14 @@ Explorar, de forma prática, os conceitos de aprendizado descritivo apresentados
 ## Informações Principais do Projeto
 
 ### Dados
-- **Dataset utilizado:** [Credit Card Dataset for Clustering](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/data)
+
+- **Dataset utilizado:** [Credit Card Dataset for Clustering][Dataset_url]
 - **Fonte:** Kaggle
 - **Descrição:** Dados anonimizados de transações de cartões de crédito, que resume o comportamento de uso de cerca de 9.000 titulares ativos de cartão de crédito num período de 6 meses.
 
 ### Técnicas de Aprendizado Descritivo
-- **Técnica aplicada:** Busca de subgrupos com *Beam Search*.
+
+- **Técnica aplicada:** Busca de subgrupos com _Beam Search_.
 - **Bibliotecas e ferramentas utilizadas:**
   - `kagglehub`: para carregar datasets diretamente do Kaggle.
   - `kagglehub.KaggleDatasetAdapter`: para carregar datasets diretamente como DataFrame do pandas.
@@ -27,7 +29,9 @@ Explorar, de forma prática, os conceitos de aprendizado descritivo apresentados
 
 ## Integrantes do Grupo
 
-- Amanda Mendes Pinho  
-- Gabriel Tonioni Duarte  
-- João Vítor Fernandes Dias  
-- Larissa Duarte Santana  
+- Amanda Mendes Pinho
+- Gabriel Tonioni Duarte
+- João Vítor Fernandes Dias
+- Larissa Duarte Santana
+
+[Dataset_url]: https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/data
